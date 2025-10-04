@@ -1,0 +1,4 @@
+Flask==3.1.2
+line-bot-sdk==3.19.0
+openai==1.106.1
+ngrok == 3.27.0
