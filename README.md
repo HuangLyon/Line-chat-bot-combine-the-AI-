@@ -5,3 +5,4 @@ Sep 2 using requirements.text install the package(pip install -r **requirements 
 Sep 3 prepare channel access token and channel secret form LINE Official Account.(you can refer this viode https://www.youtube.com/watch?v=Mw3cODdkaFM)  
 Sep 4 prepar **.env** to the configuration for the LINE Bot API and channel secret using the access token from environment variables.  
 Utilize ngrok to luanch localhost go to line interface take to the chat bot.
+<img width="662" height="638" alt="image" src="https://github.com/user-attachments/assets/85210e9c-a336-4fbe-b230-acc3dae69785" />
